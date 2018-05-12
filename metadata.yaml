@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32698'
     url: http://www.gutenberg.org/2009/agents/32698
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27452#A-Tour-of-the-MissionsObservations-and-Conclusions
 gutenberg_issued: '2008-12-08'
 gutenberg_type: Text
 identifiers:
